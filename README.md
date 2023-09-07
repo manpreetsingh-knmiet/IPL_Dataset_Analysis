@@ -3,13 +3,24 @@ IPL Analysis
 
 This repository contains a thorough analysis of IPL 2008-2022 data with the help of Excel and Power Bi. The data was downloaded from Kaggle and with a bit of cleaning was made suitable for the analysis. It also contains important insights and conclusions which are evident from the analysis. For better understanding and visualization the insights are accompanied by charts.
 
-<br> <br> <p align="center"><a><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/made-with-python.svg"></a></p>
-<img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> User's Manual
-Files/Folder	Description
-Dataset Folder	This folder provides you two datsets i.e IPL_MATCHES.csv and IPL_BALL.csv
-PowerBi File	This contains the .pbix file of the analysis which can be downloaded.
-<br><p align="center"><img src="https://user-images.githubusercontent.com/108053296/185795751-b1ee842e-8cdc-4b15-bc78-3a55dc86626b.gif" width="400" ></p>
-<img src="https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif" width="48" height="48"> Analysis
+<br>
+<br>
+<p align="center"><a><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/made-with-python.svg"></a></p>
+
+##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
+
+| Files/Folder| Description |
+| ------------- | ------------- |
+| **Dataset Folder** | This folder provides you two datsets i.e IPL_MATCHES.csv and IPL_BALL.csv  |
+| **PowerBi File** | This contains the .pbix file of the analysis which can be downloaded.  |
+
+<br>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/108053296/185795751-b1ee842e-8cdc-4b15-bc78-3a55dc86626b.gif" width="400" ></p>
+
+
+##  <img src="https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif"  width="48" height="48"> Analysis
+
 o	Top scorer batter in overall IPL 2008-2022.
 
 o	Most Wicket by a bowler in overall IPL 2008-2022.
