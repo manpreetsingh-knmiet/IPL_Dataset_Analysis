@@ -25,6 +25,8 @@ o	Most dotball by a bowler.
 o	Highest wicket taker per session.
 
 o	Highest run scorer in overall IPL 2008-2022.
+
+
 <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 1. Imported both the data files containing ball by ball data and complete matches data.
 
