@@ -5,7 +5,7 @@ This repository contains a thorough analysis of IPL 2008-2022 data with the help
 
 <br>
 <br>
-<p align="center"><a><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://forthebadge.com/images/badges/made-with-python.svg"></a></p>
+
 
 ##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
